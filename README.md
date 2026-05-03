@@ -1,8 +1,6 @@
-# Sao Jurnal IAIN Parepare Theme
+# Sao Jurnal OJS Theme
 
 **Sao Jurnal** adalah tema OJS 3 modern dengan desain premium, responsif, dan performa tinggi yang dirancang khusus untuk meningkatkan estetika dan pengalaman pengguna (UI/UX) pada portal jurnal ilmiah.
-
-![Screenshot](https://raw.githubusercontent.com/username/sao-iain-pare/main/screenshot.png) *(Ganti dengan link screenshot asli Anda)*
 
 ##  Fitur Unggulan
 
@@ -26,7 +24,7 @@
 3. Pastikan nama foldernya adalah `sao-iain-pare`.
 4. Login ke Dashboard OJS sebagai **Administrator**.
 5. Pergi ke **Settings** > **Website** > **Appearance**.
-6. Pada bagian **Theme**, pilih **Sao Jurnal IAIN Parepare Theme**.
+6. Pada bagian **Theme**, pilih **Sao Jurnal OJS Theme**.
 7. Klik **Save**.
 
 ##  Struktur Folder

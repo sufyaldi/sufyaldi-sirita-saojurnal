@@ -5,7 +5,7 @@
 
 import('lib.pkp.classes.plugins.ThemePlugin');
 
-class SaoIainPareThemePlugin extends ThemePlugin
+class SaojurnalThemePlugin extends ThemePlugin
 {
     public function init()
     {
