@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE theme SYSTEM "../../../lib/pkp/dtd/theme.dtd">
+<theme>
+	<name>saojurnal-ojs-theme</name>
+	<displayName>Sao Jurnal OJS Theme</displayName>
+	<description>Tema OJS 3 modern dengan desain premium, responsif, dan performa tinggi oleh SufyAldi.</description>
+	<parent>defaultthemeplugin</parent>
+</theme>

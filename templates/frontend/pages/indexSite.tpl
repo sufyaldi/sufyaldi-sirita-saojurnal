@@ -5,9 +5,9 @@
     <section class="hero-gradient pt-40 pb-32 text-white relative overflow-hidden">
         <div class="absolute inset-0 bg-[url('https://www.transparenttextures.com/patterns/cubes.png')] opacity-10"></div>
         <div class="max-w-4xl mx-auto px-6 text-center relative z-10 animate-fade-in">
-            <h2 class="text-6xl font-black mb-6 tracking-tighter drop-shadow-2xl">E-Jurnal IAIN Parepare</h2>
+            <h2 class="text-6xl font-black mb-6 tracking-tighter drop-shadow-2xl">Sao Jurnal OJS Theme</h2>
             <p class="text-xl text-sky-100 mb-10 font-medium leading-relaxed opacity-90">
-                Portal resmi publikasi ilmiah hasil riset dosen dan mahasiswa Institut Agama Islam Negeri Parepare.
+                Portal resmi publikasi ilmiah hasil riset dan inovasi digital untuk masa depan.
             </p>
             
             {* Search Bar Modern *}
