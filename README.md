@@ -1,6 +1,7 @@
-# Sao Jurnal OJS Theme
+<img width="665" height="744" alt="Screenshot 2026-05-03 at 11 45 35" src="https://github.com/user-attachments/assets/42941c5c-8738-40a4-bb94-e162f8ab21d7" /># Sao Jurnal OJS Theme
 
 **Sao Jurnal** adalah tema OJS 3 modern dengan desain premium, responsif, dan performa tinggi yang dirancang khusus untuk meningkatkan estetika dan pengalaman pengguna (UI/UX) pada portal jurnal ilmiah.
+<img width="638" height="828" alt="Sirita-Saojurnal-Jurnal" src="https://github.com/user-attachments/assets/ee9240bd-f7ab-4957-b2eb-83bd60a6ac5b" />
 
 ##  Fitur Unggulan
 
